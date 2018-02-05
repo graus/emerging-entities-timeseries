@@ -6,14 +6,15 @@ My apologies for the current state/lack of documentations of these scripts, they
 
 If you use the dataset, please kindly cite:
 
-    @article{graus2017birth,
-    title={The birth of collective memories: Analyzing emerging 
-    entities in text streams},
-    author={Graus, David and Odijk, Daan and de Rijke, 
-    Maarten},
-    journal={arXiv preprint arXiv:1701.04039},
-    year={2017}}
-
+    @article {ASI:ASI24004,
+    author = {Graus, David and Odijk, Daan and de Rijke, Maarten},
+    title = {The birth of collective memories: Analyzing emerging entities in text streams},
+    journal = {Journal of the Association for Information Science and Technology},
+    issn = {2330-1643},
+    url = {http://dx.doi.org/10.1002/asi.24004},
+    doi = {10.1002/asi.24004},
+    year={2018}
+    }
 
 ## Requirements
 
